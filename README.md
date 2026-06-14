@@ -55,7 +55,7 @@ A full-stack job portal application designed to connect recruiters and candidate
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,"/>
 </p>
 
 ## 🎨 Frontend Development
